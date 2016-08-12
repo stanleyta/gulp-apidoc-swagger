@@ -28,7 +28,7 @@
   ],
   "homepage": "https://github.com/fsbahman/gulp-apidoc-swagger",
   "dependencies": {
-    "apidoc-swagger": "^0.2.2",
+    "apidoc-swagger": "git+https://github.com/bushyweave/apidoc-swagger.git",
     "gulp-util": "^3.0.0"
   },
   "devDependencies": {
