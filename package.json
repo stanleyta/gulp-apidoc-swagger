@@ -28,7 +28,7 @@
   ],
   "homepage": "https://github.com/fsbahman/gulp-apidoc-swagger",
   "dependencies": {
-    "apidoc-swagger": "git+https://github.com/prxmt/apidoc-swagger.git",
+    "apidoc-swagger": "git+ssh://stash.valicore.local:7999/~stanley.ta/iss-apidoc-swagger.git",
     "gulp-util": "^3.0.0"
   },
   "devDependencies": {
